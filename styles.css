@@ -147,7 +147,10 @@ footer .circle {
     .flex {
         flex-direction: column;
     }
-
+    .icon{
+        flex-direction: row;
+        justify-content: center;
+    }
     .reverse {
         flex-direction: column-reverse;
     }
